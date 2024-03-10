@@ -26,22 +26,22 @@
 - установил и настроил [Fail2Ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-22-04)</br>
   ![Task_1_1.png](images/Task_1_2.png)
 
-*sudo nmap -sA 192.168.1.2</br>*
+**sudo nmap -sA 192.168.1.2</br>**
 ![Task_1_3_2.png](images/Task_1_3_2.png)</br>
 *Priority 3</br>*
 ![Task_1_3_1.png](images/Task_1_3_1.png)
 
-*sudo nmap -sT 192.168.1.2</br>*
+**sudo nmap -sT 192.168.1.2</br>**
 ![Task_1_4_1.png](images/Task_1_4_1.png)</br>
 *Priority 2</br>*
 ![Task_1_4_2.png](images/Task_1_4_2.png)
 
-*sudo nmap -sS 192.168.1.2</br>*
+**sudo nmap -sS 192.168.1.2</br>**
 ![Task_1_5_1.png](images/Task_1_5_1.png)</br>
 *Priority 2</br>*
 ![Task_1_5_2.png](images/Task_1_5_2.png)
 
-*sudo nmap -sV 192.168.1.2</br>*
+**sudo nmap -sV 192.168.1.2</br>**
 ![Task_1_6_1.png](images/Task_1_6_1.png)</br>
 *Priority 2</br>*
 ![Task_1_6_2.png](images/Task_1_6_2.png)
