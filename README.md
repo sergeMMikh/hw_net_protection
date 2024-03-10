@@ -74,3 +74,16 @@
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
+
+**Решение**
+
+С выключенным сервисом *Fail2Ban* сканирование прошло успешно.</br>
+![Task_2_1.png](images/Task_2_1.png)</br>
+*Suricata* зарегистрировала этот факт</br>
+![Task_2_2.png](images/Task_2_2.png)
+
+Включил *Fail2Ban*</br>
+![Task_2_3.png](images/Task_2_3.png)</br>
+*Suricata* </br>
+![Task_2_4.png](images/Task_2_4.png)
+
