@@ -86,4 +86,6 @@
 ![Task_2_3.png](images/Task_2_3.png)</br>
 *Suricata* </br>
 ![Task_2_4.png](images/Task_2_4.png)
+*Fail2Ban* </br>
+![Task_2_5.png](images/Task_2_5.png)
 
